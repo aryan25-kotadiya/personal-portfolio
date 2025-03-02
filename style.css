@@ -82,23 +82,23 @@ hr{
 }
 
 /* header */
-.hero {
+.clothcart {
     padding: 2rem;
     max-width: 350px;
     text-align: center;
 }
-.hero .hero-img{
+.clothcart .clothcart-img{
     max-width: 350px;
     display: block;
     margin: auto;
 }
 
-.hero .hero-heading{
+.clothcart .clothcart-heading{
     padding: 1rem;
     color: var(--dark-gray);
 }
 
-.hero .hero-heading .heading-inverted{
+.clothcart .clothcart-heading .heading-inverted{
     color: var(--primary-color);
 }
 
